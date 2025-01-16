@@ -41,3 +41,9 @@ Select the Preferences: Open User Settings (JSON) command in the Command Palette
 
 %APPDATA%\Code\User\User\vsCode.zip (vsCode.zip is available in this repo)
 extract vsCode.zip in to %APPDATA%\Code\User
+
+extensions -
+Notepad++ Keymap for VS Code
+WSL
+PowerShell for Visual Studio Code
+
