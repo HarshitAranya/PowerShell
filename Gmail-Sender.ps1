@@ -18,7 +18,7 @@ $smtpTo = "user.name@yahoo.com"
 $messageSubject = "Test Email"
 $messageBody = "This is a test email sent from PowerShell."
 
-$smtpUsername = "harshit.aranya@gmail.com"
+$smtpUsername = "user.name@gmail.com"
 #$smtpPassword = "your-email-password"
 $Attachment = "D:\Temp\day1.txt"  # Change this to your file path
 
